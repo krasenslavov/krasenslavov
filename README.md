@@ -92,7 +92,7 @@ const krasen = {
 
 ## Let's Connect
 
-- 💼 Available for consulting at [Codeable](https://codeable.io)
+- 💼 Available for consulting at [Codeable]([https://codeable.io](https://app.codeable.io/tasks/new?preferredContractor=49139&ref=2ATja))
 - 🌐 Visit my website: [krasenslavov.com](https://krasenslavov.com)
 - 📧 WordPress.org profile: [profiles.wordpress.org/krasenslavov](https://profiles.wordpress.org/krasenslavov)
 - 🐦 Twitter: [@krasenslavov](https://twitter.com/krasenslavov)
