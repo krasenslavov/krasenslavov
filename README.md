@@ -1,4 +1,4 @@
-# Hi, I'm Krasen
+# Hi, I'm Krasen 👋
 
 **Lead WordPress Plugin Developer** at Developry
 **Expert WordPress Consultant** at Codeable
@@ -21,17 +21,15 @@ I specialize in WordPress development, PHP, JavaScript, and building scalable pl
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-<div align="center">
+[![GitHub followers](https://img.shields.io/github/followers/krasenslavov?style=social)](https://github.com/krasenslavov)
+[![GitHub stars](https://img.shields.io/github/stars/krasenslavov?style=social)](https://github.com/krasenslavov)
+![Profile Views](https://komarev.com/ghpvc/?username=krasenslavov&color=blue&style=flat)
 
-![Krasen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krasenslavov&show_icons=true&theme=default&hide_border=true&count_private=true)
+**Focus Areas:** WordPress Plugin Development • PHP • JavaScript • Web Components • API Integration
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krasenslavov&layout=compact&theme=default&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krasenslavov&theme=default&hide_border=true)
-
-</div>
+**Achievements:** 🦈 4x Pull Shark • ⚡ Quickdraw
 
 ---
 
@@ -44,11 +42,6 @@ I specialize in WordPress development, PHP, JavaScript, and building scalable pl
 
 ### WordPress Plugins
 I maintain a suite of WordPress plugins focused on enhancing WordPress functionality, including solutions for widget visibility, duplicate content detection, automated tagging, post scheduling, weather integration, custom statuses, team collaboration, and login security monitoring.
-
-### Framework Resources
-- API server setup documentation using Slim with WordPress
-- JavaScript/CSS development environment configuration
-- Multilingual invoice extensions for Easy Digital Downloads
 
 ---
 
@@ -64,7 +57,6 @@ Check out my latest work and contributions on [GitHub](https://github.com/krasen
 
 ## Connect
 
-[![WordPress.org](https://img.shields.io/badge/WordPress.org-21759B?style=flat&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/krasenslavov/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krasenslavov/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/krasenslavov)
 [![Website](https://img.shields.io/badge/Website-FF6B6B?style=flat&logo=google-chrome&logoColor=white)](https://krasens.com)
