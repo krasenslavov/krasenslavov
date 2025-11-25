@@ -1,13 +1,45 @@
 # Hi, I'm Krasen 👋
 
+WordPress plugin developer building tools that save developers time.
+
 **Lead WordPress Plugin Developer** at Developry
 **Expert WordPress Consultant** at Codeable
 
-I specialize in WordPress development, PHP, JavaScript, and building scalable plugin solutions. Based in Bulgaria, I focus on creating tools that enhance the WordPress ecosystem and improve developer/user experiences.
+## 🚀 What I Built
 
----
+- **17 WordPress Products** used by 150,000+ developers
+- **196,000+ downloads** across all plugins
+- **5.0★ average rating** - quality matters
 
-## Tech Stack
+### Featured Projects
+
+🔎 [Search & Replace for Elementor](https://searchreplaceplugin.com) - Utility for Elementor editor
+
+💿 [Media Library Recovery](https://mediarecoveryplugin.com) - Disaster recovery
+
+📸 [Featured Image Plus](https://featuredimageplugin.com) - Extend featured images capabilitie
+
+🤖 [ACF Copilot](https://acfcopilotplugin.com) - AI-powered ACF development
+
+#### New Plugins (2025)
+
+💾 [Backup Copilot](https://backupcopilotplugin.com) - Multi-cloud backups
+
+🚀 [LaunchPad](https://launchpadplugin.com) - Automated WordPress site setup
+
+🔗 [Linkify](https://linkifyplugin.com) - AI-powered internal linking
+
+
+### WordPress Plugins
+I maintain a suite of WordPress plugins focused on enhancing WordPress functionality, including solutions for widget visibility, duplicate content detection, automated tagging, post scheduling, weather integration, custom statuses, team collaboration, and login security monitoring.
+
+### Open Source
+
+📂 [13 Free WordPress Plugins](https://developryplugins.com) - All PRO plugins have a free version to test them out
+
+📂 [19 Free WordPress Plugins](https://freebieplugins.com) - Single-file, open-source, free forever
+
+## 🛠️ Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
@@ -17,48 +49,25 @@ I specialize in WordPress development, PHP, JavaScript, and building scalable pl
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-**Frameworks & Tools:** Slim Framework, Web Components, API Integration
+## 📚 Teaching
+
+- [WP-CLI Mastery](https://wpclimastery.com) - WordPress automation
+- [Personal Blog](https://krasenslavov.com) - Tutorials & guides
+
+## 📫 Connect
+
+- 💼 [Hire me on Codeable](https://codeable.io/developers/krasen-slavov)
+- 🌐 [All Products](https://krasenslavov.com)
+- 🐦 [Twitter](https://twitter.com/krasenslavov)
+- 💼 [LinkedIn](https://linkedin.com/in/krasenslavov)
 
 ---
 
-## GitHub Activity
+🇧🇬 Based in Bulgaria | Working worldwide 🌍
+
+---
 
 [![GitHub followers](https://img.shields.io/github/followers/krasenslavov?style=social)](https://github.com/krasenslavov)
 [![GitHub stars](https://img.shields.io/github/stars/krasenslavov?style=social)](https://github.com/krasenslavov)
 ![Profile Views](https://komarev.com/ghpvc/?username=krasenslavov&color=blue&style=flat)
 
-**Focus Areas:** WordPress Plugin Development • PHP • JavaScript • Web Components • API Integration
-
-**Achievements:** 🦈 4x Pull Shark • ⚡ Quickdraw
-
----
-
-## Featured Projects
-
-### JavaScript Libraries
-- **[formajs](https://github.com/krasenslavov/formajs)** - Create dynamic and interactive forms with minimal markup and better UX
-- **[dom-assembler](https://github.com/krasenslavov/dom-assembler)** - Quickly create HTML DOM structures from template strings
-- **[blogger-card-plugin](https://github.com/krasenslavov/blogger-card-plugin)** - Web Components-based WordPress plugin for blogger cards
-
-### WordPress Plugins
-I maintain a suite of WordPress plugins focused on enhancing WordPress functionality, including solutions for widget visibility, duplicate content detection, automated tagging, post scheduling, weather integration, custom statuses, team collaboration, and login security monitoring.
-
----
-
-## Recent Activity
-
-<!-- BLOG-POST-LIST:START -->
-<!-- This section can be automated with GitHub Actions to show recent blog posts or activity -->
-<!-- BLOG-POST-LIST:END -->
-
-Check out my latest work and contributions on [GitHub](https://github.com/krasenslavov) or visit my [online card](https://krasens.com) for more information.
-
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krasenslavov/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/krasenslavov)
-[![Website](https://img.shields.io/badge/Website-FF6B6B?style=flat&logo=google-chrome&logoColor=white)](https://krasens.com)
-
-Available for consulting through [Codeable](https://www.codeable.io/developers/krasen-slavov/)
