@@ -9,7 +9,7 @@ WordPress plugin developer building tools that save developers time.
 
 - **17 WordPress Products** used by 150,000+ developers
 - **196,000+ downloads** across all plugins
-- **5.0★ average rating** - quality matters
+- **4.7 ★ average rating** - quality matters
 
 ### Featured Projects
 
