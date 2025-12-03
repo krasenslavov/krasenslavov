@@ -13,31 +13,26 @@ WordPress plugin developer building tools that save developers time.
 
 ### Featured Projects
 
-🔎 [Search & Replace for Elementor](https://searchreplaceplugin.com) - Utility for Elementor editor
-
-💿 [Media Library Recovery](https://mediarecoveryplugin.com) - Disaster recovery
-
-📸 [Featured Image Plus](https://featuredimageplugin.com) - Extend featured images capabilitie
-
-🤖 [ACF Copilot](https://acfcopilotplugin.com) - AI-powered ACF development
+- 🔎 [Search & Replace for Elementor](https://searchreplaceplugin.com) - Utility for Elementor editor
+- 💿 [Media Library Recovery](https://mediarecoveryplugin.com) - Disaster recovery
+- 📸 [Featured Image Plus](https://featuredimageplugin.com) - Extend featured images capabilitie
+- 🤖 [ACF Copilot](https://acfcopilotplugin.com) - AI-powered ACF development
 
 #### New Plugins (2025)
 
-💾 [Backup Copilot](https://backupcopilotplugin.com) - Multi-cloud backups
-
-🚀 [LaunchPad](https://launchpadplugin.com) - Automated WordPress site setup
-
-🔗 [Linkify](https://linkifyplugin.com) - AI-powered internal linking
+- 💾 [Backup Copilot](https://backupcopilotplugin.com) - Multi-cloud backups
+- 🚀 [LaunchPad](https://launchpadplugin.com) - Automated WordPress site setup
+- 🔗 [Linkify](https://linkifyplugin.com) - AI-powered internal linking
 
 
 ### WordPress Plugins
+
 I maintain a suite of WordPress plugins focused on enhancing WordPress functionality, including solutions for widget visibility, duplicate content detection, automated tagging, post scheduling, weather integration, custom statuses, team collaboration, and login security monitoring.
 
 ### Open Source
 
-📂 [13 Free WordPress Plugins](https://developryplugins.com) - All PRO plugins have a free version to test them out
-
-📂 [19 Free WordPress Plugins](https://freebieplugins.com) - Single-file, open-source, free forever
+- 📂 [10+ Free WordPress Plugins](https://developryplugins.com) - All PRO plugins have a free version to test them out
+- 📂 [20+ Free WordPress Plugins](https://freebieplugins.com) - Single-file, open-source, free forever
 
 ## 🛠️ Tech Stack
 
