@@ -32,7 +32,7 @@ I maintain a suite of WordPress plugins focused on enhancing WordPress functiona
 ### Open Source
 
 - 📂 [10+ Free WordPress Plugins](https://developryplugins.com) - All PRO plugins have a free version to test them out
-- 📂 [20+ Free WordPress Plugins](https://freebieplugins.com) - Single-file, open-source, free forever
+- 📂 [20+ Free WordPress Plugins](https://freebieplugins.krasenslavov.com) - Single-file, open-source, free forever
 
 ## 🛠️ Tech Stack
 
@@ -46,7 +46,7 @@ I maintain a suite of WordPress plugins focused on enhancing WordPress functiona
 
 ## 📚 Teaching
 
-- [WP-CLI Mastery](https://wpclimastery.com) - WordPress automation
+- [WP-CLI Mastery](https://wpclimastery.krasenslavov.com) - WordPress automation
 - [Personal Blog](https://krasenslavov.com) - Tutorials & guides
 
 ## 📫 Connect
