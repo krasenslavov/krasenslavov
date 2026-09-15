@@ -15,14 +15,14 @@ WordPress plugin developer building tools that save developers time.
 
 - 🔎 [Search & Replace for Elementor](https://searchreplaceplugin.com) - Utility for Elementor editor
 - 💿 [Media Library Recovery](https://mediarecoveryplugin.com) - Disaster recovery
-- 📸 [Featured Image Plus](https://featuredimageplugin.com) - Extend featured images capabilitie
-- 🤖 [ACF Copilot](https://acfcopilotplugin.com) - AI-powered ACF development
+- 🤖 [ACF Copilot](https://www.developry.com/plugins/acf-copilot/) - AI-powered ACF development
 
 #### New Plugins (2025)
 
-- 💾 [Backup Copilot](https://backupcopilotplugin.com) - Multi-cloud backups
-- 🚀 [LaunchPad](https://launchpadplugin.com) - Automated WordPress site setup
-- 🔗 [Linkify](https://linkifyplugin.com) - AI-powered internal linking
+- 📸 [Featured Image Plus](https://www.developry.com/plugins/featured-image-plus/) - Extend featured images capabilitie
+- 💾 [Backup Copilot](https://www.developry.com/plugins/backup-copilot/) - Multi-cloud backups
+- 🚀 [LaunchPad](https://www.developry.com/plugins/launchpad-builder/) - Automated WordPress site setup
+- 🔗 [Linkify](https://www.developry.com/plugins/linkify/) - AI-powered internal linking
 
 
 ### WordPress Plugins
@@ -31,7 +31,7 @@ I maintain a suite of WordPress plugins focused on enhancing WordPress functiona
 
 ### Open Source
 
-- 📂 [10+ Free WordPress Plugins](https://developryplugins.com) - All PRO plugins have a free version to test them out
+- 📂 [10+ Free WordPress Plugins](https://www.developry.com/plugins/) - All PRO plugins have a free version to test them out
 - 📂 [20+ Free WordPress Plugins](https://freebieplugins.krasenslavov.com) - Single-file, open-source, free forever
 
 ## 🛠️ Tech Stack
@@ -52,7 +52,7 @@ I maintain a suite of WordPress plugins focused on enhancing WordPress functiona
 ## 📫 Connect
 
 - 💼 [Hire me on Codeable](https://codeable.io/developers/krasen-slavov)
-- 🌐 [All Products](https://krasenslavov.com)
+- 🌐 [All Products](https://www.developry.com)
 - 🐦 [Twitter](https://twitter.com/krasenslavov)
 - 💼 [LinkedIn](https://linkedin.com/in/krasenslavov)
 
@@ -65,4 +65,3 @@ I maintain a suite of WordPress plugins focused on enhancing WordPress functiona
 [![GitHub followers](https://img.shields.io/github/followers/krasenslavov?style=social)](https://github.com/krasenslavov)
 [![GitHub stars](https://img.shields.io/github/stars/krasenslavov?style=social)](https://github.com/krasenslavov)
 ![Profile Views](https://komarev.com/ghpvc/?username=krasenslavov&color=blue&style=flat)
-
